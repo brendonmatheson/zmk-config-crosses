@@ -3,10 +3,10 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/pointing.h>
 
+&lt {
 
-  / {
   behaviors {
-    as_ht: autoshift_hold_tap };
+    as_ht: autoshift_hold_tap {
       compatible = "zmk,behavior-hold-tap";
       label = "AUTOSHIFT_HOLD_TAP";
       #binding-cells = <2>;
@@ -42,10 +42,7 @@
         <&as_ht MACRO_PLACEHOLDER MACRO_PLACEHOLDER>;
     };
   };
-};
 
-
-&lt {
     tapping-term-ms = <200>;
     flavor = "balanced";
     quick-tap-ms = <150>;
