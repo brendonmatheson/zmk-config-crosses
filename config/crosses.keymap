@@ -24,10 +24,10 @@
 
         layer_1 {
             bindings = <
-&kp F1          &kp F2     &kp F3        &mkp MB1  &mkp MB2    &kp F6     &kp F7            &kp F8         &kp F9     &kp F10
-&kp N1          &kp N2     &kp N3        &kp N4    &kp N5      &kp N6     &kp N7            &kp N8         &kp N9     &kp N0
-&kp LEFT_SHIFT  &kp LCTRL  &kp LEFT_ALT  &kp CAPS  &kp TAB     &kp MINUS  &kp LEFT_BRACKET  &kp SEMICOLON  &kp COMMA  &kp BACKSLASH
-                           &none         &none     &tog 1      &kp F11    &kp F12           &kp SPACE
+&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6  &kp N7            &kp N8         &kp NUMBER_9  &kp NUMBER_0
+&kp ESCAPE    &kp N2        &kp N3        &mkp MB1      &mkp MB2        &kp N6        &kp N7            &kp N8         &kp N9        &kp N0
+&kp GRAVE     &kp LCTRL     &kp LEFT_ALT  &kp CAPS      &kp TAB         &kp MINUS     &kp LEFT_BRACKET  &kp SEMICOLON  &kp COMMA     &kp BACKSLASH
+                            &none         &none         &none           &kp F11       &kp F12           &kp SPACE
             >;
         };
 
