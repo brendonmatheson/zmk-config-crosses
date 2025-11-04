@@ -55,19 +55,9 @@
             key-positions = <32 24>;
         };
 
-        layer1-combo-right {
-            bindings = <&mo 1>;
-            key-positions = <25 35>;
-        };
-
         layer2-combo-left {
             bindings = <&mo 2>;
             key-positions = <23 32>;
-        };
-
-        layer2-combo-right {
-            bindings = <&mo 2>;
-            key-positions = <26 35>;
         };
     };
 
