@@ -4,7 +4,7 @@
 #include <dt-bindings/zmk/pointing.h>
 
 &lt {
-    chosen { zmk,physical-layout = &gggw_crosses_36_layout; };
+
     behaviors {
         as: auto_shift {
             compatible = "zmk,behavior-hold-tap";
