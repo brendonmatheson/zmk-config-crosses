@@ -92,10 +92,10 @@
 
         layer_0 {
             bindings = <
-&lt 3 Q  &as W  &as E             &as R         &as T            &as Y               &as U          &as I               &as O    &as P
-&as A    &as S  &as D             &as F         &as G            &as H               &as J          &as K               &as L    &kp BACKSPACE
-&as Z    &as X  &as C             &as V         &as B            &as N               &as M          &as COMMA           &as DOT  &as FSLH
-                &kp LEFT_CONTROL  &kp LEFT_GUI  &mt LCTRL SPACE  &mt LEFT_ALT ENTER  &kp RIGHT_ALT  &mt LEFT_SHIFT TAB
+&lt 3 Q  &as W  &as E             &as R         &as T                 &as Y               &as U          &as I               &as O    &as P
+&as A    &as S  &as D             &as F         &as G                 &as H               &as J          &as K               &as L    &kp BACKSPACE
+&as Z    &as X  &as C             &as V         &as B                 &as N               &as M          &as COMMA           &as DOT  &as FSLH
+                &kp LEFT_CONTROL  &kp LEFT_GUI  &mt LEFT_SHIFT SPACE  &mt LEFT_ALT ENTER  &kp RIGHT_ALT  &mt LEFT_SHIFT TAB
             >;
         };
 
