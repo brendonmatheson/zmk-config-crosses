@@ -113,7 +113,7 @@
 &kp K_MUTE    &none           &none           &mkp RCLK        &mkp LCLK      &kp LC(LEFT)        &kp LC(RIGHT)       &kp RA(RS(RC(LEFT)))  &kp RS(RA(RC(RIGHT)))  &none
 &kp C_VOL_UP  &none           &kp UP_ARROW    &none            &kp PAGE_UP    &shifted LA(H)      &shifted LA(L)      &shifted LA(K)        &shifted LA(J)         &none
 &kp C_VOL_DN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN  &kp EQUAL           &kp RBKT            &kp RS(RA(RC(H)))     &kp RS(RA(RC(L)))      &kp SLASH
-                              &none           &to 0            &none          &shifted LA(ENTER)  &shifted LA(SPACE)  &kp SPACE
+                              &none           &to 0            &none          &shifted LA(SPACE)  &shifted LA(ENTER)  &kp SPACE
             >;
         };
 
